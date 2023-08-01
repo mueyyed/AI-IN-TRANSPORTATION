@@ -3,7 +3,6 @@
 
 ![alt text](  https://epnext.com/wp-content/uploads/2021/02/YapayZeka_Gorsel.jpg  )
 
-
 ## Repos : 
 UAVDT :   https://paperswithcode.com/dataset/uavdt  
 
