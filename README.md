@@ -1,7 +1,7 @@
 # AI-in-Transportation
 # Ulasımda Yapay Zeka
 
-![alt text](  https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx43luA1WZ13izv9uiuUKfgTlX5AejX2Oews_E4dv5lsqVGo9P  )
+![alt text](  https://blogs.icrc.org/law-and-policy/wp-content/uploads/sites/102/2022/03/Drone-image-1096x620.jpg  )
 
 
 ## Repos : 
